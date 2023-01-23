@@ -12,3 +12,5 @@
 🐍Be careful, if you hit your head on the walls or your own tail the other player wins.
 
 🐍Have fun!
+
+ℹ️ To play the game, simply open the .jar file.
